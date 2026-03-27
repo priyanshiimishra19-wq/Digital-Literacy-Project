@@ -1,12 +1,41 @@
-Hi, I’m Priyanshi Mishra 👋
+# 👋 Hi, I'm Priyanshi Mishra
 
-🎓 **Branch:** Computer Science Engineering (CSE)
+---
 
-💡 **About Me:**
-I am a passionate CSE student who loves exploring new technologies and continuously improving my programming skills. I enjoy learning, experimenting, and building things that solve real-world problems.
+## 👩‍💻 STUDENT DETAILS
 
-🚀 **What I Hope to Learn:**
-I aim to develop strong knowledge in software development, explore areas like AI/ML and cybersecurity, and work on real-world projects to enhance my practical skills and creativity.
+* **Name:** Priyanshi Mishra  
+* **Registration Number:** [Your Reg. No.]  
+* **Branch:** Computer Science Engineering (CSE)  
 
-📬 **Connect with Me:**
-• **Email:** [priyanshiimishra19@gmail.com](mailto:priyanshiimishra19@gmail.com)
+
+---
+
+## 📚 COURSE DETAILS
+
+* **Course Code:** CSE0001  
+* **Course Title:** Digital Literacy  
+
+---
+
+## 📌 PROJECT OVERVIEW
+
+This Digital Literacy Project focuses on developing essential skills required for effective and responsible use of digital technologies. It includes practical tasks such as creating an infographic, building a digital portfolio, exploring coding platforms, and understanding cyber safety.
+
+Through this project, I gained hands-on experience with various digital tools and improved my technical and communication skills.
+
+---
+
+## 🎯 OBJECTIVES
+
+* To understand digital literacy concepts  
+* To learn safe internet practices  
+* To improve professional communication  
+* To explore digital platforms  
+* To build a strong digital presence  
+
+---
+
+## 📂 PROJECT STRUCTURE
+
+
