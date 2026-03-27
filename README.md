@@ -9,4 +9,4 @@ I am a passionate CSE student who loves exploring new technologies and continuou
 I aim to develop strong knowledge in software development, explore areas like AI/ML and cybersecurity, and work on real-world projects to enhance my practical skills and creativity.
 
 📬 **Connect with Me:**
-• **Email:** [priyanshiimsihra19@gmail.com](mailto:priyanshiimishra19@gmail.com)
+• **Email:** [priyanshiimishra19@gmail.com](mailto:priyanshiimishra19@gmail.com)
