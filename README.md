@@ -1,41 +1,150 @@
-# 👋 Hi, I'm Priyanshi Mishra
+# Digital-literacy-project-
+# 📘 DIGITAL LITERACY PROJECT
 
 ---
 
 ## 👩‍💻 STUDENT DETAILS
 
-* **Name:** Priyanshi Mishra  
-* **Registration Number:** [25BCE10654]  
-* **Branch:** Computer Science Engineering (CSE)  
-
+* **Name:** Priyanshi Mishra
+* **Registration Number:** 25BCE10654
+* **Branch:** Computer Science and Engineering (CSE CORE)
+* **Year:** First Year
 
 ---
 
 ## 📚 COURSE DETAILS
 
-* **Course Code:** CSE0001  
-* **Course Title:** Digital Literacy  
+* **Course Code:** CSE0001
+* **Course Title:** Digital Literacy
 
 ---
 
 ## 📌 PROJECT OVERVIEW
 
-This Digital Literacy Project focuses on developing essential skills required for effective and responsible use of digital technologies. It includes practical tasks such as creating an infographic, building a digital portfolio, exploring coding platforms, and understanding cyber safety.
+This Digital Literacy Project is designed to develop essential skills required for effective and responsible use of digital technologies. The project focuses on understanding digital tools, improving communication skills, and learning safe internet practices.
 
-Through this project, I gained hands-on experience with various digital tools and improved my technical and communication skills.
+As part of this project, various tasks were completed including creating an infographic, building a digital portfolio, exploring coding platforms, practicing professional email writing, and studying cybercrime awareness. These activities helped in gaining practical knowledge and real-world exposure to digital platforms.
 
 ---
 
 ## 🎯 OBJECTIVES
 
-* To understand digital literacy concepts  
-* To learn safe internet practices  
-* To improve professional communication  
-* To explore digital platforms  
-* To build a strong digital presence  
+* To understand the concept of digital literacy
+* To learn safe and secure internet practices
+* To develop professional communication skills
+* To explore digital tools and platforms
+* To build a strong digital presence
 
 ---
 
 ## 📂 PROJECT STRUCTURE
 
+```id="repo01"
+digital-literacy-project/
+│
+├── README.md
+├── report/
+│   └── Project_Report.pdf
+│
+├── task-1-presentation/
+│   └── Infographic
+│
+├── task-2-portfolio/
+│   └── Profile Screenshots
+│
+├── task-3-platforms/
+│   └── Coding + Google Form
+│
+├── task-4-email-etiquette/
+│   └── Emails + Checklist
+│
+├── task-5-cybercrime/
+│   └── Case Study + Prevention Tips
+```
 
+---
+
+## 📝 TASK DETAILS
+
+### 🔹 TASK 1: DIGITAL LITERACY INFOGRAPHIC
+
+An infographic was created using Canva to spread awareness about digital literacy. It includes:
+
+* Meaning of digital literacy
+* Safe internet practices
+* Email etiquette
+* Useful digital tools
+
+---
+
+### 🔹 TASK 2: DIGITAL PORTFOLIO
+
+Profiles were created and updated on:
+
+* GitHub
+* Kaggle
+* Stackoverflow
+
+These platforms help in building a professional identity and showcasing skills.
+
+---
+
+### 🔹 TASK 3: CODING & COLLABORATION PLATFORMS
+
+* Solved a beginner-level coding problem on Codechef
+* Created a Google Form quiz on digital literacy
+* Analyzed responses using Google Sheets
+
+---
+
+### 🔹 TASK 4: EMAIL ETIQUETTE & SOCIAL MEDIA CHECKLIST
+
+* Drafted formal emails for:
+
+  * Assignment extension
+  * Internship application
+* Created a checklist including Do’s and Don’ts of social media usage
+
+---
+
+### 🔹 TASK 5: CYBERCRIME AWARENESS
+
+* Studied cybercrime cases such as phishing and UPI fraud
+* Created a prevention checklist with safety tips
+* Included helpline number: **1930**
+* Used official portal: cybercrime.gov.in
+
+---
+
+## 🔗 GOOGLE FORM LINK
+https://docs.google.com/forms/d/e/1FAIpQLSelIejGkSMmtBSdh3PQs0ATmDMl01OcBjlFLz-HMhlVJk_4rw/viewform?usp=dialog
+---
+
+## 📊 LEARNING OUTCOMES
+
+Through this project, I have:
+
+* Improved my understanding of digital literacy
+* Learned how to use digital tools effectively
+* Developed professional communication skills
+* Gained awareness about cyber safety and online threats
+* Built a foundation for creating a strong digital presence
+
+---
+
+## 📖 REFERENCES
+
+* Canva
+* GitHub
+* Stackoverflow
+* Kaggle
+* Google Forms
+* National Cyber Crime Portal (cybercrime.gov.in)
+
+---
+
+## ✅ CONCLUSION
+
+This project provided valuable insights into the importance of digital literacy in today’s world. It helped in developing both technical and communication skills while also emphasizing safe and responsible use of the internet. The knowledge gained from this project will be useful in academic and professional growth.
+
+---
