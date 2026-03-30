@@ -5,7 +5,7 @@
 ## 👩‍💻 STUDENT DETAILS
 
 * **Name:** Priyanshi Mishra  
-* **Registration Number:** [Your Reg. No.]  
+* **Registration Number:** [25BCE10654]  
 * **Branch:** Computer Science Engineering (CSE)  
 
 
